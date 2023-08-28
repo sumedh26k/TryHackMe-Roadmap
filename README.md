@@ -216,6 +216,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
+* * [TryHackMe | nikto]
+
 ## Crypto & Hashes
 
 ---
